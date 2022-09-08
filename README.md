@@ -1,5 +1,6 @@
 ### Hi there 👋 I'm Alyona
 I’m currently learning JS, TS at [The Rolling Scopes School](https://rs.school)
+
 ### 📫 How to reach me: Discord name - Alyona Khvalko#3621
 
 <!--
@@ -19,7 +20,7 @@ Here are some ideas to get you started:
 
 
 
-<--#### My projects:
+<!--#### My projects:
 - [Museum](https://ylepner-museum.netlify.app) ([github repository link](https://github.com/ylepner/rsschool-projects/tree/museum-dom))
 - [Momentum](https://ylepner-momentum.netlify.app/) ([github repository link](https://github.com/ylepner/rsschool-projects/tree/momentum))
 - [Migration Newip To Ts](https://ylepner-migration-newip-to-ts.netlify.app/) ([github repository link](https://github.com/ylepner/rsschool-projects/tree/migration-newip-to-ts/))
