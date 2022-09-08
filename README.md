@@ -1,7 +1,8 @@
 ### Hi there 👋 I'm Alyona
 I’m currently learning JS, TS at [The Rolling Scopes School](https://rs.school)
 
-### 📫 How to reach me: Discord name - Alyona Khvalko#3621
+### 📫 How to reach me: 
+Discord name - Alyona Khvalko#3621
 
 <!--
 **alyonakhvalko/alyonakhvalko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
