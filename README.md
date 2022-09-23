@@ -5,7 +5,8 @@ I’m currently learning JavaScript at [The Rolling Scopes School](https://rs.sc
 Discord name - Alyona Khvalko#3621
 
 #### My projects:
-[Museum](https://ylepner-museum.netlify.app) ([github repository link](https://github.com/ylepner/rsschool-projects/tree/museum-dom))
+-[Portfolio](https://rolling-scopes-school.github.io/alyonakhvalko-JSFEPRESCHOOL/portfolio/)
+-[Shelter](https://rolling-scopes-school.github.io/alyonakhvalko-JSFE2022Q1/shelter/pages/main/index.html)
 
 <!--
 **alyonakhvalko/alyonakhvalko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
