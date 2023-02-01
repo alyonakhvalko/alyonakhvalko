@@ -1,14 +1,17 @@
 ### Hi there 👋 I'm Alyona
-I’m currently learning JavaScript at [The Rolling Scopes School](https://rs.school)
+I’m currently learning JavaScript, Typescript at [The Rolling Scopes School](https://rs.school)
 
 ### 📫 How to reach me: 
 Discord name - Alyona Khvalko#3621
 
-<!--#### My projects:
+#### My projects:
 ## - [Portfolio](https://rolling-scopes-school.github.io/alyonakhvalko-JSFEPRESCHOOL/portfolio/)
 ## - [Shelter](https://rolling-scopes-school.github.io/alyonakhvalko-JSFE2022Q1/shelter/pages/main/index.html)
 ## - [Eco-sounds](https://rolling-scopes-school.github.io/alyonakhvalko-JSFEPRESCHOOL/eco-sounds/)
-## - [Online-zoo]()-->
+## - [Online-zoo](https://rolling-scopes-school.github.io/alyonakhvalko-JSFE2022Q3/online-zoo/pages/main/index.html)
+## - [Songbird quiz](https://rolling-scopes-school.github.io/alyonakhvalko-JSFE2022Q3/songbird/quiz/)
+
+
 
 <!--
 **alyonakhvalko/alyonakhvalko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
