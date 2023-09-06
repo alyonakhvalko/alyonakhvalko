@@ -10,7 +10,7 @@ Discord name - Alyona Khvalko#3621
 ## - [Eco-sounds](https://rolling-scopes-school.github.io/alyonakhvalko-JSFEPRESCHOOL/eco-sounds/)
 ## - [Online-zoo](https://rolling-scopes-school.github.io/alyonakhvalko-JSFE2022Q3/online-zoo/pages/main/index.html)
 ## - [Songbird quiz](https://rolling-scopes-school.github.io/alyonakhvalko-JSFE2022Q3/songbird/quiz/)
-## - [Интернет-каталог kkvorobei.by](kkvorobei.by)
+## - [Интернет-каталог kkvorobei.by](https://kkvorobei.by/)
 
 
 
