@@ -10,7 +10,7 @@ Discord name - Alyona Khvalko#3621
 ## - [Eco-sounds](https://rolling-scopes-school.github.io/alyonakhvalko-JSFEPRESCHOOL/eco-sounds/)
 ## - [Online-zoo](https://rolling-scopes-school.github.io/alyonakhvalko-JSFE2022Q3/online-zoo/pages/main/index.html)
 ## - [Songbird quiz](https://rolling-scopes-school.github.io/alyonakhvalko-JSFE2022Q3/songbird/quiz/)
-## - [Barbershop](https://alyonakhvalko.github.io/barber/)
+## - [Barbershop](https://alyonakhvalko.github.io/barber/) Figma: https://www.figma.com/file/NrxrOs6tZgML1q3l4kyFg5/chik-chik-(Intensive)-(Copy)?type=design&node-id=0-1&mode=design&t=cUxvJBmRJUwNxRm9-0
 
 ## - [Интернет-каталог kkvorobei.by](https://kkvorobei.by/)
 ## - [Интернет-магазин электросамокатов](https://terel.by)
