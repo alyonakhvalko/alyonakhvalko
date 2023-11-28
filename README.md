@@ -18,7 +18,7 @@ Discord name - Alyona Khvalko#3621
 ## - [belsivart.by](https://belsivart.by) - WordPress
 
 ### Now in process:
-## - [Coffee-House](https://rolling-scopes-school.github.io/alyonakhvalko-JSFE2023Q4/coffee-house/home/index.html) Figma: [link](https://www.figma.com/file/AZOwSTOaUG9Bszct2lVQXA/Coffee-House-(Copy)?node-id=238%3A2063&mode=dev) Верстка по макету, добавление интерактивности (слайды, табы), анимация, посадка страницы на WordPress.
+## - [Coffee-House](https://rolling-scopes-school.github.io/alyonakhvalko-JSFE2023Q4/coffee-house/home/index.html) Figma: [link](https://www.figma.com/file/AZOwSTOaUG9Bszct2lVQXA/Coffee-House-(Copy)?node-id=238%3A2063&mode=dev) Верстка по макету, адаптивность и кроссбраузерность, добавление интерактивности (слайды, табы), анимация, посадка страницы на WordPress.
 
 <!--#### My projects:
 - [Museum](https://ylepner-museum.netlify.app) ([github repository link](https://github.com/ylepner/rsschool-projects/tree/museum-dom))
