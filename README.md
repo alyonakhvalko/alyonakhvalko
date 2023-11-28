@@ -8,15 +8,17 @@ Discord name - Alyona Khvalko#3621
 ## - [Shelter](https://rolling-scopes-school.github.io/alyonakhvalko-JSFE2022Q1/shelter/pages/main/index.html) Figma: [link](https://www.figma.com/file/hwtLTBJWUuonFLarPmTwQ8/Portfolio-white-2-(Copy)?type=design&mode=design&t=cUxvJBmRJUwNxRm9-0)
 ## - [Online-zoo](https://rolling-scopes-school.github.io/alyonakhvalko-JSFE2022Q3/online-zoo/pages/main/index.html) Figma: [link](https://www.figma.com/file/WCDrcMZezTwZUOjUs7BNzR/online-zoo-3-weeks-(Copy)?type=design&mode=design&t=39NbLnhH1O1HaJ3b-0)
 
-## - [Songbird quiz](https://rolling-scopes-school.github.io/alyonakhvalko-JSFE2022Q3/songbird/quiz/) 
+## - [Songbird quiz](https://rolling-scopes-school.github.io/alyonakhvalko-JSFE2022Q3/songbird/quiz/) (Single Page Application)
 ## - [Eco-sounds](https://rolling-scopes-school.github.io/alyonakhvalko-JSFEPRESCHOOL/eco-sounds/)
 
 ## - [Barbershop](https://alyonakhvalko.github.io/barber/) Figma: [link](https://www.figma.com/file/NrxrOs6tZgML1q3l4kyFg5/chik-chik-(Intensive)-(Copy)?type=design&node-id=0-1&mode=design&t=cUxvJBmRJUwNxRm9-0)
 
-## - [Интернет-каталог kkvorobei.by](https://kkvorobei.by/) 
+## - [Интернет-каталог kkvorobei.by](https://kkvorobei.by/) (Single Page Application)
 ## - [Интернет-магазин электросамокатов](https://terel.by) - WordPress
 ## - [belsivart.by](https://belsivart.by) - WordPress
 
+### Now in process:
+## - [Coffee-House](https://rolling-scopes-school.github.io/alyonakhvalko-JSFE2023Q4/coffee-house/home/index.html) Figma: [link](https://www.figma.com/file/AZOwSTOaUG9Bszct2lVQXA/Coffee-House-(Copy)?node-id=238%3A2063&mode=dev) Верстка по макету, добавление интерактивности (слайды, табы), анимация, посадка страницы на WordPress.
 
 <!--#### My projects:
 - [Museum](https://ylepner-museum.netlify.app) ([github repository link](https://github.com/ylepner/rsschool-projects/tree/museum-dom))
