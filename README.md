@@ -17,10 +17,14 @@ Discord name - Alyona Khvalko#3621
 ## - [Интернет-магазин электросамокатов](https://terel.by) - WordPress
 ## - [belsivart.by](https://belsivart.by) - WordPress
 
+
+
+<!--#### My projects:
+
+
 ### Now in process:
 ## - [Coffee-House](https://rolling-scopes-school.github.io/alyonakhvalko-JSFE2023Q4/coffee-house/home/index.html) Figma: [link](https://www.figma.com/file/AZOwSTOaUG9Bszct2lVQXA/Coffee-House-(Copy)?node-id=238%3A2063&mode=dev) Верстка по макету, адаптивность и кроссбраузерность, добавление интерактивности (слайды, табы), анимация, посадка страницы на WordPress.
 
-<!--#### My projects:
 - [Museum](https://ylepner-museum.netlify.app) ([github repository link](https://github.com/ylepner/rsschool-projects/tree/museum-dom))
 - [Momentum](https://ylepner-momentum.netlify.app/) ([github repository link](https://github.com/ylepner/rsschool-projects/tree/momentum))
 - [Migration Newip To Ts](https://ylepner-migration-newip-to-ts.netlify.app/) ([github repository link](https://github.com/ylepner/rsschool-projects/tree/migration-newip-to-ts/))
