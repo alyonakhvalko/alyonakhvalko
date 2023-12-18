@@ -15,9 +15,6 @@ Discord name - Alyona Khvalko#3621
 
 ## - [Интернет-каталог kkvorobei.by](https://kkvorobei.by/) (Single Page Application)
 ## - [Интернет-магазин электросамокатов](https://terel.by) - WordPress
-## - [belsivart.by](https://belsivart.by) - WordPress
-
-
 
 <!--#### My projects:
 
