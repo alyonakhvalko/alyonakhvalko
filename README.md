@@ -4,6 +4,13 @@ I’m currently learning JavaScript, Typescript and Angular at [The Rolling Scop
 Discord name - Alyona Khvalko#3621
 
 #### My projects:
+## - [Barbershop](https://alyonakhvalko.github.io/barber/) Figma: [link](https://www.figma.com/file/NrxrOs6tZgML1q3l4kyFg5/chik-chik-(Intensive)-(Copy)?type=design&node-id=0-1&mode=design&t=cUxvJBmRJUwNxRm9-0)
+
+## - [Аренда домиков для отдыха](https://alyonakhvalko.github.io/aframe-house/) 
+
+## - [Интернет-каталог kkvorobei.by](https://kkvorobei.by/) (Single Page Application)
+## - [Интернет-магазин электросамокатов](https://terel.by) - WordPress
+
 ## - Учебный проект(RS school) [Portfolio](https://rolling-scopes-school.github.io/alyonakhvalko-JSFEPRESCHOOL/portfolio/) - Figma: [link](https://www.figma.com/file/3QeP1Kq2QMtLq2bWfGlCgg/Portfolio-(Copy)?type=design&mode=design&t=cUxvJBmRJUwNxRm9-0)
 ## - Учебный проект(RS school) [Shelter](https://rolling-scopes-school.github.io/alyonakhvalko-JSFE2022Q1/shelter/pages/main/index.html) Figma: [link](https://www.figma.com/file/hwtLTBJWUuonFLarPmTwQ8/Portfolio-white-2-(Copy)?type=design&mode=design&t=cUxvJBmRJUwNxRm9-0)
 ## - Учебный проект(RS school) [Online-zoo](https://rolling-scopes-school.github.io/alyonakhvalko-JSFE2022Q3/online-zoo/pages/main/index.html) Figma: [link](https://www.figma.com/file/WCDrcMZezTwZUOjUs7BNzR/online-zoo-3-weeks-(Copy)?type=design&mode=design&t=39NbLnhH1O1HaJ3b-0)
@@ -11,10 +18,7 @@ Discord name - Alyona Khvalko#3621
 ## - Учебный проект(RS school) [Songbird quiz](https://rolling-scopes-school.github.io/alyonakhvalko-JSFE2022Q3/songbird/quiz/) (Single Page Application)
 ## - Учебный проект(RS school) [Eco-sounds](https://rolling-scopes-school.github.io/alyonakhvalko-JSFEPRESCHOOL/eco-sounds/)
 
-## - [Barbershop](https://alyonakhvalko.github.io/barber/) Figma: [link](https://www.figma.com/file/NrxrOs6tZgML1q3l4kyFg5/chik-chik-(Intensive)-(Copy)?type=design&node-id=0-1&mode=design&t=cUxvJBmRJUwNxRm9-0)
 
-## - [Интернет-каталог kkvorobei.by](https://kkvorobei.by/) (Single Page Application)
-## - [Интернет-магазин электросамокатов](https://terel.by) - WordPress
 
 <!--#### My projects:
 
