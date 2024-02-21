@@ -2,6 +2,7 @@
 I’m currently learning JavaScript, Typescript and Angular at [The Rolling Scopes School](https://rs.school)
 ### 📫 How to reach me: 
 Discord name - Alyona Khvalko#3621
+Telegram - @alyona_content
 
 #### My projects:
 ## - Сайт [Barbershop](https://alyonakhvalko.github.io/barber/) Макет на Figma: [link](https://www.figma.com/file/NrxrOs6tZgML1q3l4kyFg5/chik-chik-(Intensive)-(Copy)?type=design&node-id=0-1&mode=design&t=cUxvJBmRJUwNxRm9-0)
