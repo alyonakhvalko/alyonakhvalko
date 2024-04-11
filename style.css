@@ -123,7 +123,7 @@ body {
 }
 
 .about__image {
-    background-image: url(/mainpage/assets/img/main.jpg);
+    background-image: url(./assets/img/main.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     border-radius: 230px;
