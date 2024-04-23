@@ -13,19 +13,27 @@
 <body>
     <header>
         <nav class="nav">
-            <div class="container">
+            <div class="container header__container">
                 <div class="nav-row">
                     <a href="./index.html" class="logo"><strong>{ Alyona</strong> Khvalko <strong>}</strong></a>
-                    <ul class="nav-list">
-                        <li class="nav-list__item"><a href="#projects" class="nav-list__link">Проекты</a></li>
-                        <li class="nav-list__item"><a href="#skills" class="nav-list__link">Навыки</a></li>
-                        <li class="nav-list__item"><a href="#contacts" class="nav-list__link">Контакты</a></li>
+                    <ul class="nav-list navigation">
+                            <li class="nav-list__item"><a href="#projects" class="nav-list__link" data-i18n="projects">Проекты</a></li>
+                            <li class="nav-list__item"><a href="#skills" class="nav-list__link" data-i18n="skills">Навыки</a></li>
+                            <li class="nav-list__item"><a href="./about.html" class="nav-list__link" data-i18n="education">Образование</a></li>
+                            <li class="nav-list__item"><a href="./contacts.html" class="nav-list__link" data-i18n="contacts">Контакты</a></li>
                     </ul>
+                </div>
+                <div class="social__wrapper">
                     <ul class="social-header">
                         <li class="social__item"><a href="https://t.me/alyona_website"><img src="./assets/svg/tg-color.svg" alt="telegram"></a></li>
-                        <li class="social__item"><a href="https://instagram.com/alyona_website"><img src="./assets/svg/inst-color.svg" alt="inst"></a></li>
+                        <li class="social__item"><a href="https://instagram.com/alyona_site"><img src="./assets/svg/inst-color.svg" alt="inst"></a></li>
                         <li class="social__item"><a href="https://github.com/alyonakhvalko"><img src="./assets/svg/github-color.svg" alt="github"></a></li>
                     </ul>
+                    <div class="language">
+                        <span class="language-button active-lang" data-lang="ru">ru</span>
+                        <span>|</span>
+                        <span class="language-button" data-lang="en">en</span>        
+                    </div>
                 </div>
             </div>
         </nav>
@@ -34,24 +42,26 @@
         <section class="about-section">
             <div class="container about__container">
                 <div class="about__description">
-                    <p>Привет 👋,</p>
-                    <p>меня зовут <span>Алёна</span></p>
-                    <h1>и я создаю сайты для вашего бизнеса!</h1>
+                    <p data-i18n="hello">Привет 👋,</p>
+                    <div class="name__div"><p data-i18n="name">меня зовут </p> <span data-i18n="Alyona">Алёна</span></div>
+                    <h1 data-i18n="h1">и я создаю сайты для вашего бизнеса!</h1>
                 </div>
                 <div class="about__image"></div>
             </div>
         </section>
         <section class="projects-section" id="projects">
             <div class="container projects__container">
-                <h2>Проекты</h2>
+                <h2 data-i18n="h2-projects">Проекты</h2>
                 <p class="section__subtitle">учебные и рабочие проекты</p>
+
                 <div class="projects-cards__wrapper">
+
                     <div class="card__item">
-                        <div class="card__img kkvorobei"></div>
+                        <div class="card__img aframehouse"></div>
                         <div class="card__info">
-                            <div class="card__title">kkvorobei.by</div>
-                            <div class="card__descr">Онлайн-каталог товаров. Адаптивный, кроссбраузерный. Разработка логотипа. Наполнение. Первичная SEO настройка.  </div>
-                            <a class="card__btn" href="https://kkvorobei.by/">
+                            <div class="card__title">A-Frame House</div>
+                            <div class="card__descr">Лендинг для заказа треугольного домика-шалаша. Адаптивный, кроссбраузерный. </div>
+                            <a class="card__btn" href="https://alyonakhvalko.github.io/aframe-house/">
                                 <svg width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
                                     <path d="M11.2867 8.7133C10.6041 8.031 9.67846 7.64771 8.71334 7.64771C7.74821 7.64771 6.82259 8.031 6.14 8.7133L3.56584 11.2866C2.88324 11.9692 2.49976 12.895 2.49976 13.8604C2.49976 14.8257 2.88324 15.7515 3.56584 16.4341C4.24844 17.1167 5.17424 17.5002 6.13959 17.5002C7.10493 17.5002 8.03074 17.1167 8.71334 16.4341L10 15.1475" stroke="black" stroke-width="1.66667" stroke-linecap="round" stroke-linejoin="round" />
                                     <path d="M8.71332 11.2867C9.39591 11.969 10.3215 12.3523 11.2867 12.3523C12.2518 12.3523 13.1774 11.969 13.86 11.2867L16.4342 8.71334C17.1168 8.03074 17.5002 7.10493 17.5002 6.13959C17.5002 5.17424 17.1168 4.24844 16.4342 3.56584C15.7516 2.88324 14.8257 2.49976 13.8604 2.49976C12.8951 2.49976 11.9693 2.88324 11.2867 3.56584L9.99998 4.8525" stroke="black" stroke-width="1.66667" stroke-linecap="round" stroke-linejoin="round" />
@@ -60,6 +70,7 @@
                             </a>
                         </div>
                     </div>
+
                     <div class="card__item">
                         <div class="card__img terel"></div>
                         <div class="card__info">
@@ -74,6 +85,7 @@
                             </a>
                         </div>
                     </div>
+
                     <div class="card__item">
                         <div class="card__img barber"></div>
                         <div class="card__info">
@@ -88,7 +100,56 @@
                             </a>
                         </div>
                     </div>
+
+                    <div class="card__item">
+                        <div class="card__img portfolio"></div>
+                        <div class="card__info">
+                            <div class="card__title">Portfolio</div>
+                            <div class="card__descr">Лендинг для фотографа. Галерея. Контактная форма. Адаптивный, кроссбраузерный. </div>
+                            <a class="card__btn" href="https://rolling-scopes-school.github.io/alyonakhvalko-JSFEPRESCHOOL/portfolio/">
+                                <svg width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                    <path d="M11.2867 8.7133C10.6041 8.031 9.67846 7.64771 8.71334 7.64771C7.74821 7.64771 6.82259 8.031 6.14 8.7133L3.56584 11.2866C2.88324 11.9692 2.49976 12.895 2.49976 13.8604C2.49976 14.8257 2.88324 15.7515 3.56584 16.4341C4.24844 17.1167 5.17424 17.5002 6.13959 17.5002C7.10493 17.5002 8.03074 17.1167 8.71334 16.4341L10 15.1475" stroke="black" stroke-width="1.66667" stroke-linecap="round" stroke-linejoin="round" />
+                                    <path d="M8.71332 11.2867C9.39591 11.969 10.3215 12.3523 11.2867 12.3523C12.2518 12.3523 13.1774 11.969 13.86 11.2867L16.4342 8.71334C17.1168 8.03074 17.5002 7.10493 17.5002 6.13959C17.5002 5.17424 17.1168 4.24844 16.4342 3.56584C15.7516 2.88324 14.8257 2.49976 13.8604 2.49976C12.8951 2.49976 11.9693 2.88324 11.2867 3.56584L9.99998 4.8525" stroke="black" stroke-width="1.66667" stroke-linecap="round" stroke-linejoin="round" />
+                                </svg>
+                                <span>Перейти на сайт</span>
+                            </a>
+                        </div>
+                    </div>
+
+                    <div class="card__item">
+                        <div class="card__img kkvorobei"></div>
+                        <div class="card__info">
+                            <div class="card__title">kkvorobei.by</div>
+                            <div class="card__descr">Онлайн-каталог товаров. Адаптивный, кроссбраузерный. Разработка логотипа. Наполнение. Первичная SEO настройка.  </div>
+                            <a class="card__btn" href="https://kkvorobei.by/">
+                                <svg width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                    <path d="M11.2867 8.7133C10.6041 8.031 9.67846 7.64771 8.71334 7.64771C7.74821 7.64771 6.82259 8.031 6.14 8.7133L3.56584 11.2866C2.88324 11.9692 2.49976 12.895 2.49976 13.8604C2.49976 14.8257 2.88324 15.7515 3.56584 16.4341C4.24844 17.1167 5.17424 17.5002 6.13959 17.5002C7.10493 17.5002 8.03074 17.1167 8.71334 16.4341L10 15.1475" stroke="black" stroke-width="1.66667" stroke-linecap="round" stroke-linejoin="round" />
+                                    <path d="M8.71332 11.2867C9.39591 11.969 10.3215 12.3523 11.2867 12.3523C12.2518 12.3523 13.1774 11.969 13.86 11.2867L16.4342 8.71334C17.1168 8.03074 17.5002 7.10493 17.5002 6.13959C17.5002 5.17424 17.1168 4.24844 16.4342 3.56584C15.7516 2.88324 14.8257 2.49976 13.8604 2.49976C12.8951 2.49976 11.9693 2.88324 11.2867 3.56584L9.99998 4.8525" stroke="black" stroke-width="1.66667" stroke-linecap="round" stroke-linejoin="round" />
+                                </svg>
+                                <span>Перейти на сайт</span>
+                            </a>
+                        </div>
+                    </div>
+
+                    <div class="card__item">
+                        <div class="card__img cozyhouse"></div>
+                        <div class="card__info">
+                            <div class="card__title">CozyHouse</div>
+                            <div class="card__descr">Лендинг для приюта животных. Учебный проект. Адаптив. Слайдер. Модальные окна.</div>
+                            <a class="card__btn" href="https://rolling-scopes-school.github.io/alyonakhvalko-JSFE2022Q1/shelter/pages/main/index.html">
+                                <svg width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                    <path d="M11.2867 8.7133C10.6041 8.031 9.67846 7.64771 8.71334 7.64771C7.74821 7.64771 6.82259 8.031 6.14 8.7133L3.56584 11.2866C2.88324 11.9692 2.49976 12.895 2.49976 13.8604C2.49976 14.8257 2.88324 15.7515 3.56584 16.4341C4.24844 17.1167 5.17424 17.5002 6.13959 17.5002C7.10493 17.5002 8.03074 17.1167 8.71334 16.4341L10 15.1475" stroke="black" stroke-width="1.66667" stroke-linecap="round" stroke-linejoin="round" />
+                                    <path d="M8.71332 11.2867C9.39591 11.969 10.3215 12.3523 11.2867 12.3523C12.2518 12.3523 13.1774 11.969 13.86 11.2867L16.4342 8.71334C17.1168 8.03074 17.5002 7.10493 17.5002 6.13959C17.5002 5.17424 17.1168 4.24844 16.4342 3.56584C15.7516 2.88324 14.8257 2.49976 13.8604 2.49976C12.8951 2.49976 11.9693 2.88324 11.2867 3.56584L9.99998 4.8525" stroke="black" stroke-width="1.66667" stroke-linecap="round" stroke-linejoin="round" />
+                                </svg>
+                                <span>Перейти на сайт</span>
+                            </a>
+                        </div>
+                    </div>
+
                 </div>
+                <form class="projects__form">
+                    <button class="projects__btn"><a class="projects__link" href="projects.html">Больше проектов</a></button>
+                </form>
             </div>
         </section>
         <section class="skills-section" id="skills">
@@ -108,18 +169,20 @@
     </main>
     <footer class="footer" id="contacts">
         <div class="container footer__container">
-            <div><a href="./index.html" class="logo"><strong>{ Alyona</strong> Khvalko <strong>}</strong></a></div>
+            <div class="footer__info">
+                <a href="./index.html" class="logo"><strong>{ Alyona</strong> Khvalko <strong>}</strong></a>
+                <p class="copyright">УНП: ВВ1603238</p>
+            </div>
             <div class="footer__wrapper" id="contacts">
                 <ul class="social">
                     <li class="social__item"><a href="https://t.me/alyona_website"><img src="./assets/svg/telegram.svg" alt="telegram"></a></li>
-                    <li class="social__item"><a href="https://instagram.com/alyona_website"><img src="./assets/svg/instagram.svg" alt="inst"></a></li>
+                    <li class="social__item"><a href="https://instagram.com/alyona_site"><img src="./assets/svg/instagram.svg" alt="inst"></a></li>
                     <li class="social__item"><a href="https://github.com/alyonakhvalko"><img src="./assets/svg/gitHub.svg" alt="github"></a></li>
                 </ul>
-                <div class="copyright">
-                    <p>2024</p>
-                </div>
             </div>
+            
         </div>
     </footer>
+    <script type="module" src="./script.js"></script>
 </body>
 </html>
